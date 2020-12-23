@@ -1,2 +1,4 @@
-# jetbrains_acadamy_java
-Projects made while following the Java Study Plan of Jetbrains Acadamy.
+# Jetbrains Acadamy - Java Developer
+Projects made while following the Java Developer Study Plan of Jetbrains Acadamy.
+
+
